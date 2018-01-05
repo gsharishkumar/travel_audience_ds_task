@@ -18,11 +18,11 @@ device_type: To find which type of device the user has used. (Numeric)
 
 travel_audience_ds_task/&nbsp;&nbsp;<------------------ Project root <br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;plots/&nbsp;&nbsp;<---------------------------------------- Plots folder which contains the output graphs <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Highly_Active_Users_Plot.png&nbsp;&nbsp;<----- User's histogram based on number of days activity <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Users_Histogram.png&nbsp;&nbsp;<---------------- Visualization of highly active users <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;config.py&nbsp;&nbsp;<------------------------------------ Config file containing major constants used in codes <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;data_processing.py&nbsp;&nbsp;<----------------------- Implementation of feature extraction, data visualization and its supporting functions <br>
-&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;features_computation.py&nbsp;&nbsp;<---------------------- Main python file<br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Highly_Active_Users_Plot.png&nbsp;&nbsp;<--- User's histogram based on number of days activity <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Users_Histogram.png&nbsp;&nbsp;<------------ Visualization of highly active users <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;config.py&nbsp;&nbsp;<----------------------------- Config file containing major constants used in codes <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;data_processing.py&nbsp;&nbsp;<------------------ Implementation of feature extraction, data visualization and its supporting functions <br>
+&nbsp;&nbsp;&nbsp;&nbsp;&nbsp;features_computation.py&nbsp;&nbsp;<--------------- Main python file<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;README.md
 
 ## How to use
