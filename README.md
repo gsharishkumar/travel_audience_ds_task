@@ -48,6 +48,19 @@ Extracting features...<br>
 &nbsp;&nbsp;&nbsp;&nbsp;&nbsp;Extracted device_type feature<br>
 Time (in minutes) taken to generate plots and extract required features and write the output into a file - 8.291095495563303<br>
 
+## First 10 records of output.csv
+uuid,highly_active,multiple_days,weekday_biz,device_type
+313908E1F6825D28ADF3FCE451E5B5E5,False,False,True,1
+C7F60E6140A59120D9C9854CA87758DF,False,False,False,3
+2DC20DA3585AEDFD846E8679AE5C14C7,False,True,True,3
+1C8B0E355480105C5C5B8B466399155F,False,True,True,3
+86F243798AE16A55AFC1D3293279CCD5,False,True,True,3
+42F14D0B0C6D827EDE671491904B5EBD,False,False,False,1
+8DFC1B8495A5EF100CEA682AFB8C7D7C,False,True,False,3
+9D758258C16B9A597D9E31249B2DF25C,False,True,False,3
+BDBF7B79FF78AA95EBF7211B22E7E97D,False,False,False,1
+...
+
 ## Author
 
 Harish Kumar Govindaswamy Saravanam
